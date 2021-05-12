@@ -15,7 +15,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "element-ui": "^2.5.4",
-    "swiper": "^4.4.6",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-axios": "^2.1.4",
     "vue-resource": "^1.5.1",
